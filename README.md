@@ -4,7 +4,7 @@ Personal technology summary blog
 > 以下为blog脚本迁移过来的，如果发现有图片或视频等缺漏，可以访问源链接
 
 
-[迁移博客文章到Github issues:2021-7-17](./issues/28)
+[迁移博客文章到Github issues:2021-7-17](../issues/28)
     
 [多语言需求及后续方案思考:2021-7-16](./issues/27)
     
