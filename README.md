@@ -1,6 +1,11 @@
 # blog
 Personal technology summary blog
 
+
+[Angular1.x旧项目多语言改造方案](/../../issues/31)
+
+
+
 > 以下为blog脚本迁移过来的，如果发现有图片或视频等缺漏，可以访问源链接
 
 
