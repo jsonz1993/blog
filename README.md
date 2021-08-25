@@ -1,6 +1,7 @@
 # blog
 Personal technology summary blog
 
+[Angular1.x旧项目多语言改造后续](/../../issues/32)
 
 [Angular1.x旧项目多语言改造方案](/../../issues/31)
 
