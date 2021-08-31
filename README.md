@@ -1,6 +1,8 @@
 # blog
 Personal technology summary blog
 
+[一个有趣的暗黑模式实现](/../../issues/33)
+
 [Angular1.x旧项目多语言改造后续](/../../issues/32)
 
 [Angular1.x旧项目多语言改造方案](/../../issues/31)
