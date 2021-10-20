@@ -1,6 +1,8 @@
 # blog
 Personal technology summary blog
 
+[浮点数计算精度问题与mathjs](/../../issues/34)
+
 [一个有趣的暗黑模式实现](/../../issues/33)
 
 [Angular1.x旧项目多语言改造后续](/../../issues/32)
