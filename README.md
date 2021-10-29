@@ -1,6 +1,8 @@
 # blog
 Personal technology summary blog
 
+[旧项目多语言改造词条维护](/../../issues/35)
+
 [浮点数计算精度问题与mathjs](/../../issues/34)
 
 [一个有趣的暗黑模式实现](/../../issues/33)
