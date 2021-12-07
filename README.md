@@ -1,6 +1,8 @@
 # blog
 Personal technology summary blog
 
+[多语言遗留问题修复](/../../issues/36)
+
 [旧项目多语言改造词条维护](/../../issues/35)
 
 [浮点数计算精度问题与mathjs](/../../issues/34)
