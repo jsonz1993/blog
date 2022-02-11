@@ -1,6 +1,10 @@
 # blog
 Personal technology summary blog
 
+[vite 插件编写及断点调试](/../../issues/38)
+
+[React Hook、Models、Plop](/../../issues/37)
+
 [多语言遗留问题修复](/../../issues/36)
 
 [旧项目多语言改造词条维护](/../../issues/35)
