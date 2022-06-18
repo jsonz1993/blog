@@ -1,6 +1,8 @@
 # blog
 Personal technology summary blog
 
+[手把手实现 DeepValueOf](https://github.com/jsonz1993/blog/issues/39)
+
 [vite 插件编写及断点调试](/../../issues/38)
 
 [React Hook、Models、Plop](/../../issues/37)
